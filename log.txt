@@ -1,0 +1,4 @@
+
+Using the default profile...
+Coverage report generated for Cucumber Features, RSpec to /home/ec2-user/environment/typo/coverage. 10913 / 14832 LOC (73.58%) covered.
+Coverage report generated for Cucumber Features, RSpec to /home/ec2-user/environment/typo/coverage. 10913 / 14832 LOC (73.58%) covered.
